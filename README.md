@@ -4,6 +4,9 @@
 ---
 ### Hello
 안녕하세요
+---
+### 인공지능
+화이팅
 
 <!--
 **myeonggeon-yu/myeonggeon-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
