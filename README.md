@@ -1,4 +1,9 @@
-### Hi there 👋
+### Profile
+세종대학교 전자정보통신공학과 18학번 유명건입니다. 반갑습니다!! 
+
+---
+### Hello
+안녕하세요
 
 <!--
 **myeonggeon-yu/myeonggeon-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
